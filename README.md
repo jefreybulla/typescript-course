@@ -1,5 +1,5 @@
 # Demos
-See src/demo.ts for demos
+See [src/demo.ts](https://github.com/jefreybulla/typescript-course/blob/jef-branch/src/demo.ts) for demos.
 
 # TypeScript Essential Training
 This is the repository for the LinkedIn Learning course TypeScript Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
